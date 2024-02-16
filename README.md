@@ -28,7 +28,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring interesting software technologies
 
-- :zap: In my free time, I learning languages and read tech articles.
+- :zap: In my free time, I learning foreign languages and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed_updates-secondary_nav)
 
