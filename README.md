@@ -31,7 +31,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :zap: In my free time, I learning foreign languages and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/mwlite/profile/me?trk=p_mwlite_feed_updates-secondary_nav)
-  [![Telegram Badge](https://img.shields.io/badge/-Telegram-green?style=flat&logo=Linkedin&logoColor=white)](https://t.me/pc_usver)
+  [![Telegram Badge](https://img.shields.io/badge/-Telegram-green?style=flat&logo=Telegram&logoColor=white)](https://t.me/pc_usver)
 
 ---
 
